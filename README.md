@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/banner.jpg" width="100%" alt="Banner do projeto Gestão de Empregados">
+</div>
+
+<div align="center">
 
 # G E S T Ã O　D E　E M P R E G A D O S
 
